@@ -4,13 +4,11 @@
 
 Before moving to a framework, it’s important to learn some of the key concepts in JavaScript. We have prepared a curriculum for young developers out there. We strongly believe this curriculum is best-suited to kickstart your developer journey.
 
-  
-
 For any help/support, contact us at dsckiet@gmail.com
 
-  
+![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrh68YrPa5AOWQfyeYbC7ZrolKsI9PobneVGkP8HgvRzhdgUB&s)  
 
->**JS Variables and Values**
+>## **JS Variables and Values**
 
 -  NaN and Infinity
 
@@ -24,7 +22,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **Control Flow and Logics**
+>## **Control Flow and Logics**
 
 -  Comparison ( == or === )
 
@@ -34,7 +32,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **Array**
+>## **Array**
 
 -  Push and Pop
 
@@ -52,13 +50,13 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **Objects - Core of JS**
+>## **Objects - Core of JS**
 
 -  Objects and its operations
 
   
 
-> **Loops**
+>## **Loops**
 
 -  For, While, Do while
 
@@ -70,7 +68,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
->**Functions**
+>## **Functions**
 
 -  Arguments and Parameters
 
@@ -78,7 +76,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
->**Advanced Functions**
+>## **Advanced Functions**
 
 -  Function Scope, Block Scope, Lexical Scope
 
@@ -96,7 +94,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **Playground of Functions**
+>## **Playground of Functions**
 
 -  forEach
 
@@ -108,7 +106,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **More Fun**
+>## **More Fun**
 
 -  Spread in Function Calls, Arrays, Objects
 
@@ -120,7 +118,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **Asynchronous, Callbacks and Promises**
+>## **Asynchronous, Callbacks and Promises**
 
 -  Call Stack
 
@@ -138,7 +136,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **Async and Await**
+> ## **Async and Await**
 
 -  Async and Await
 
@@ -154,7 +152,7 @@ For any help/support, contact us at dsckiet@gmail.com
 
   
 
-> **More, but Important**
+> ## **More, but Important**
 
 -  Prototypes
 
