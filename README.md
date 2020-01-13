@@ -4,6 +4,8 @@
 
 Before moving to a framework, it’s important to learn some of the key concepts in JavaScript. We have prepared a curriculum for young developers out there. We strongly believe this curriculum is best-suited to kickstart your developer journey.
 
+Star this repoistry for easy accessibility. We will be updating these topics with the best resources to learn them.
+
 For any help/support, contact us at dsckiet@gmail.com
 
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrh68YrPa5AOWQfyeYbC7ZrolKsI9PobneVGkP8HgvRzhdgUB&s)  
